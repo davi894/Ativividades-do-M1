@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+/* overflow-x: auto; */
+
+.lista {
+    display: flex;
+    list-style: none;
+    overflow-x: auto;
+}
+
+.produtos {
+    width: 207px;
+    height: 275px;
+    /* margin: auto; */
+    padding: auto;
+}
+
+h1 {
+    display: inline;
+}
+
+.wBlue {
+    color: blue;
+}
+
+.botaoUm {
+    display: inline;
+    color: ;
+    background-color: #0A99FE
+        /* com 10% de opacidade */
+    ;
+    justify-content: end;
+}
+
+.botaoDois {
+    display: inline;
+    color: ;
+    background-color: #0A99FE
+        /* com 10% de opacidade */
+    ;
+    justify-content: end;
+}
+

@@ -1,0 +1,20 @@
+ul{
+  list-style: none;
+  font-size: 30px;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+ul li{
+  display: inline-block;
+  background-color: rgb(171, 81, 255);
+
+}
+ul li a{
+  color: rgb(255, 253, 253);
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+
+}

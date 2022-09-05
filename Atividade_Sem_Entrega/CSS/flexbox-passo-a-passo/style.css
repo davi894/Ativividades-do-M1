@@ -1,0 +1,13 @@
+.boxMain{
+    display: flex;
+    justify-content: space-around; /* Os cards internos 'boxItem' ficaram com espaços propocionais entre eles */
+    width:100%;
+  }
+
+  .boxItem{
+    width: 200px;
+    height: 200px;
+    background-color: #E1E1E1;
+    border-radius: 8px; /* Propriedade para deixar a borda arredondada */
+    
+  }

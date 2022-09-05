@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    
+}
+
+h2 {
+    justify-content: center;
+    display: flex;
+}
+
+.urgente,
+.prioritario,
+.normal {
+    list-style: none;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%
+}

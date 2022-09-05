@@ -1,0 +1,38 @@
+h1 {
+    align-items: center;
+    width: 400px;
+    margin-left: 450px;
+}
+
+.conteudo {
+    background-color: rgb(49, 49, 255);
+    color: aliceblue;
+    padding: 12px;
+    
+}
+
+.direitos {
+    color: aliceblue;
+    background-color: black;
+    align-self: start;
+    align-items: center;
+    align-content: center;
+    height: 50px;
+    
+}
+
+.p1 {
+    margin-left: 515px;
+    padding-top: 13px;
+}
+
+span {
+    color: blue;
+    }
+
+ol {
+   
+    text-decoration:underline;
+    
+}
+    
