@@ -1,0 +1,27 @@
+principios rest
+
+1- interaface uniforme solicitações de entradas e saidas devem ser iguais
+
+2- o cliente só precisa saber a URI e só utiliz-la, apena o caminho sem saber o que existe por trás do processo
+
+3-O servidor n sabe quem tá acessando é necessário de indentificar (cliente)
+
+4- o cache é um banco de dados em memória Ram aumenta a performace do servidor (pesquisar sobre chace redis)
+
+5-O cliente só precisa receber o response da APi sem saber o caminho/servidor
+
+6- Se for o caso um código em demanda tem que executar a parar
+executável
+
+boas praticas REST
+
+1-padronizar
+2-evitar operações a serem ralizadas na URI ex.:Verbos HTTP´S
+3-não colocar o formato ex.:josn,xml...
+4-utilizar os verbos HTTp corretos
+5-HATEOAS Hipermídia como motor
+
+Resfull == API com essa pradrão
+
+
+

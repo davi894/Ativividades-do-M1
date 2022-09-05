@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    gap: 5px;
+}
+
+#logoDois {
+    
+}
+
+#ulNavegacao {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+#sino,
+#lixeiro {
+    width: 20px;
+
+    height: 20px;
+}
